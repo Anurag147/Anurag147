@@ -1,16 +1,5 @@
 <div>
 <h2 align="center">👋 Hello! I'm Anurag Asthana </h2>
-<div align="right">
-    <a href="https://www.linkedin.com/in/anurag-asthana/" target="_blank">
-      <img height="30" src="https://github.com/shrutiasthana2097/shrutiasthana2097/blob/main/Linkedin.png"/> 
-      </a> &nbsp;
-    <a href="mailto:a.asthana90@gmail.com" target="_blank">
-      <img height="28" src="https://github.com/shrutiasthana2097/shrutiasthana2097/blob/main/Gmail_Logo.svg"/> 
-    </a> 
-  </div>
-</div>
-
-<br/>
 <h3>💬<b>About me:  </b></h3>
 <i>
 <p>
@@ -30,8 +19,9 @@
 </p>
 <p>
   Overall, my journey as a Full Stack Lead Software Engineer has been an exhilarating one, filled with constant growth, innovation, and a commitment to delivering high-quality solutions. I am excited to continue pushing the boundaries of what is possible in the realm of software development, leveraging my skills, experience, and passion to create impactful and transformative products.
-</p></i><br/>
+</p></i>
 <h3>🔭 <b>Education:</b></h3>
+<i>
 <p>
   I hold a Bachelor of Technology in Information Technology from Graphic Era University, one of the leading institutions in India. My educational background equips me with a strong foundation in computer science and information technology, enabling me to bring a comprehensive skill set to my work.
 </p>
@@ -43,15 +33,12 @@
 </p>
 <p>
   With my educational background and a solid foundation in computer science and information technology, I am well-prepared to tackle complex software development challenges and contribute to the success of the projects I am involved in.
-</p> <br/>
-<h3>🌱 <b>Work Experience:</b></h3>
-<i>
-I have gained approximately 3.5 years of valuable industry experience working with renowned multinational corporations such as Accenture and LTIMindtree. My proficiency lies in front-end development, Java, Restful APIs, and Salesforce technologies, enabling me to deliver efficient and innovative solutions with a strong emphasis on code quality and mentorship.</i><br/>
+</p></i>
 <h3><b>📫How to reach me:</b></h3>
 <a href="mailto:shrutiasthana97@gmail.com" target="_blank">
     <img height="15" src="https://github.com/shrutiasthana2097/shrutiasthana2097/blob/main/Gmail_Logo.svg"/> 
 </a> 
-<i>Drop me a mail at <b><a href="mailto:shrutiasthana97@gmail.com" target="_blank">shrutiasthana97@gmail.com</a></b></i><br/>
+<i>Drop me a mail at <b><a href="mailto:shrutiasthana97@gmail.com" target="_blank">a.asthana90@gmail.com</a></b></i><br/>
 <a href="https://www.linkedin.com/in/shruti-asthana/" target="_blank">
       <img height="15" src="https://github.com/shrutiasthana2097/shrutiasthana2097/blob/main/Linkedin.png"/> 
 </a>
