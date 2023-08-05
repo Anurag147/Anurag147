@@ -15,7 +15,7 @@
       Beyond my technical proficiency, I believe in the importance of fostering collaboration and effective communication within the development teams I lead. I understand that successful software engineering is not just about writing code, but also about working together, sharing ideas, and empowering team members to reach their full potential. I take pride in mentoring junior engineers and creating an environment that encourages innovation and continuous learning.
    </p>
    <p>
-      Outside of work, I find great joy in exploring the latest advancements in technology and attending tech conferences to stay up to date with industry trends. I am also an avid reader and enjoy delving into books on software architecture, AI, and personal development. Additionally, I value work-life balance and make it a priority to spend quality time with my family and pursue hobbies such as hiking and playing the guitar.
+      Outside of work, I find great joy in exploring the latest advancements in technology and attending tech conferences to stay up to date with industry trends. I am also an avid reader and enjoy delving into books on software architecture, AI, and personal development. Additionally, I value work-life balance and make it a priority to spend quality time with my family and pursue hobbies such as playing snooker and gym.
    </p>
    <p>
       Overall, my journey as a Full Stack Lead Software Engineer has been an exhilarating one, filled with constant growth, innovation, and a commitment to delivering high-quality solutions. I am excited to continue pushing the boundaries of what is possible in the realm of software development, leveraging my skills, experience, and passion to create impactful and transformative products.
