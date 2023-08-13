@@ -29,12 +29,6 @@
    <p>
       I was ranked among the top rankers in the IT department, showcasing my dedication to academic excellence and a deep understanding of the subject matter. This recognition reflects my commitment to learning and my ability to consistently perform at a high level.
    </p>
-   <p>
-      Graduating first class with distinction demonstrates my strong work ethic, attention to detail, and the ability to consistently deliver exceptional results. I approached my studies with enthusiasm, actively engaging in coursework, projects, and practical assignments to acquire practical skills and knowledge.
-   </p>
-   <p>
-      With my educational background and a solid foundation in computer science and information technology, I am well-prepared to tackle complex software development challenges and contribute to the success of the projects I am involved in.
-   </p>
 </i>
 <h3><b>📫How to reach me:</b></h3>
 <a href="mailto:shrutiasthana97@gmail.com" target="_blank">
